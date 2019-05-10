@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170418_gfrbsxnpl5a.mp4" >}}
 
-     中西教育方式 
      如何教育孩子？ 软？ 硬？ 还是软 + 硬？ 以自己的过去为警钟，不要让孩子重滔复撤！ 
+     中西教育方式 
      https://www.youtube.com/watch?v=gFrbSxNpL5A 

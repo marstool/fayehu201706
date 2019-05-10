@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170523_hofp6hhhfr8.mp4" >}}
 
-     美国式婆媳关系......分享自己的体会。 
      分析（分享）中美婆媳关系的区别（一） 
      https://www.youtube.com/watch?v=hOfp6hhhFR8 
+     美国式婆媳关系......分享自己的体会。 

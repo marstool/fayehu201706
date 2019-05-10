@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170527_0tcktzax2fk.mp4" >}}
 
-     继续之前评论..... 
      谈谈对马里兰大学女留学生演讲的看法（二）粤语 
      https://www.youtube.com/watch?v=0tckTzaX2Fk 
+     继续之前评论..... 

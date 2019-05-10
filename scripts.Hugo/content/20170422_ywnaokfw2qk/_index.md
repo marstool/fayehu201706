@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170422_ywnaokfw2qk.mp4" >}}
 
-     https://www.youtube.com/watch?v=yWNAOKfw2qk 
-     中美家庭关系对比 
      
+     中美家庭关系对比 
+     https://www.youtube.com/watch?v=yWNAOKfw2qk 

@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170503_ca09ux_ix3o.mp4" >}}
 
-     https://www.youtube.com/watch?v=CA09UX_iX3o 
-     This video is about 美国的亚洲人（国语） 
      美国的亚洲人（国语） 
+     This video is about 美国的亚洲人（国语） 
+     https://www.youtube.com/watch?v=CA09UX_iX3o 
